@@ -1,0 +1,11 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.283",
+        "sentry/sdk": "^3.5"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}
